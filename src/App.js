@@ -8,7 +8,6 @@ export default function App() {
     <>
     <section>
       <div className="card">
-<div className="card-header"> </div>
 <div className="card-body"> 
 <ProfilPhoto/>
 <FullName/>
